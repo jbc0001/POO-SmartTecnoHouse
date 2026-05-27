@@ -1,0 +1,3 @@
+4;Bombilla salón;encendida
+5;Ventilador salón;encendido
+7;Persiana salón;cerrada
